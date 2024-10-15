@@ -1,0 +1,32 @@
+table{
+    width: 100%;
+    border-collapse: collapse;
+    padding: 10px;
+}
+th, td{
+    border: 1px solid #000000;
+    padding: 8px;
+}
+th{
+    text-align: center;
+}
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+    color: blue;
+}
+.left-text {
+    text-align: left;
+    width: 45%;
+}
+.right-text {
+    text-align: right;
+    width: 45%;
+}
+h1 {
+    width: 100%;
+    text-align: center;
+    color: blue;
+}
